@@ -1,4 +1,5 @@
 "use strict";
+// Function Overloading
 function add(num1, num2) {
     if (arguments.length == 1) {
         console.log(num1 + 100);
